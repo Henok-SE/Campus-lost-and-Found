@@ -16,3 +16,15 @@ Campus Lost & Found is a frontend web application built using **HTML, CSS, and J
 
 ---
 
+## 🚀 Features
+
+- 📝 Post Lost Items
+- 📦 Post Found Items
+- 🔍 Search & Filter Items
+- 📍 Filter by Location
+- 🗂️ Category-based Browsing
+- 💬 Contact Owner/Finder (UI only or simulated)
+- 📱 Responsive Design
+
+---
+

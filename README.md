@@ -28,3 +28,12 @@ Campus Lost & Found is a frontend web application built using **HTML, CSS, and J
 
 ---
 
+## 🛠️ Tech Stack
+
+- **HTML5** – Structure
+- **CSS3** – Styling & Layout (Flexbox / Grid)
+- **JavaScript (Vanilla)** – Interactivity & Logic
+
+---
+
+## 📁 Project Structure
